@@ -142,11 +142,11 @@ Computer's responses will be printed in the console. Just click on the "run" upp
  
 "Rock-paper-scissors-lizard-Spock" (RPSLS) is a variant of "Rock-paper-scissors" that allows five choices. Each choice wins against two other choices, loses against two other choices and ties against itself. The key idea of this program is to equate the strings "rock", "paper", "scissors", "lizard", "Spock" to numbers as follows:
 
-0. rock
-1. Spock
-2. paper
-3. lizard
-4. scissors
+* 0. rock
+* 1. Spock
+* 2. paper
+* 3. lizard
+* 4. scissors
 
 Each choice wins against the preceding two choices and loses against the following two choices (if "rock" and "scissors" are thought of as being adjacent using "modular arithmetic"). 
  
