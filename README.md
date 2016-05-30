@@ -10,16 +10,16 @@ Below you can find the description and how to play each game along with the sour
  
 ### Quick "Mini-Projects" Index
 
-* RiceRocks
-* Blackjack
-* Memory
-* Pong
-* Stopwatch
-* Guess the Number
-* Rock-Paper-Scissors-Lizard-Spock
+* [RiceRocks] (#ricerocks)
+* [Blackjack] (#blackjack)
+* [Memory] (#memory)
+* [Pong] (#pong)
+* [Stopwatch] (#stopwatch)
+* [Guess the Number] (#guess-the-number)
+* [Rock-Paper-Scissors-Lizard-Spock] (#rock-paper-scissors-lizard-spock)
 
 
-## RiceRocks
+## RiceRocks <a id="ricerocks"></a>
 
 ### game description 
  
@@ -40,7 +40,7 @@ Just Click on the "run" upper left button on "CodeSkulptor" to start playing.
 -- click to play "RiceRocks" @ http://www.codeskulptor.org/#user38_ZS5c5CDjLVDH3kS.py
 
 
-## Blackjack
+## Blackjack <a id="blackjack"></a>
 
 ### game description 
  
@@ -66,7 +66,7 @@ Just Click on the "run" upper left button on "CodeSkulptor" to start playing.
 -- click to play "Blackjack" @ http://www.codeskulptor.org/#user38_Sre1SIq1cuvP3al.py
 
 
-## Memory
+## Memory <a id="memory"></a>
 
 ### game description 
  
@@ -84,7 +84,7 @@ The program keeps track of the "turns" playing the game and contains:
 -- click to play "Memory" @ http://www.codeskulptor.org/#user41_yoFTVqEW70FhBKE.py
 
 
-## Pong
+## Pong <a id="pong"></a>
 
 ### game description 
  
@@ -101,7 +101,7 @@ Once more click on the "run" upper left button on "CodeSkulptor" to start the pr
 -- click to play "Pong" @ http://www.codeskulptor.org/#user38_vH3nXtvB8jHAOdH.py
 
 
-## Stopwatch
+## Stopwatch <a id="stopwatch"></a>
 
 ### game description 
  
@@ -118,7 +118,7 @@ Just click on the "run" upper left button on "CodeSkulptor" to start the program
 -- click to play "Stopwatch" @ http://www.codeskulptor.org/#user38_HNRcSRMHWTveYXi.py
 
 
-## Guess the Number
+## Guess the Number <a id="guess-the-number"></a>
 
 ### game description 
  
@@ -136,7 +136,7 @@ Computer's responses will be printed in the console. Just click on the "run" upp
 -- click to play "Guess the Number" @ http://www.codeskulptor.org/#user38_qUSUQsJHQTbf1Yf.py
 
 
-## Rock-Paper-Scissors-Lizard-Spock
+## Rock-Paper-Scissors-Lizard-Spock <a id="rock-paper-scissors-lizard-spock"></a>
 
 ### game description 
  
